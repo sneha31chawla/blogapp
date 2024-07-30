@@ -27,7 +27,7 @@ This repository contains a Spring Boot application for a blog that implements CR
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/spring-boot-blog-app.git
+   git clone https://github.com/sneha31chawla/blogapp
    ```
 
 2. **Configure database connection:**
